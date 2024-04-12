@@ -1,8 +1,8 @@
 from django.urls import path
+
 from . import views
 
 
-# Указываем namespace для ссылок приложения:
 app_name = "blog"
 
 
